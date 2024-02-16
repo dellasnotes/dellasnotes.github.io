@@ -9,6 +9,13 @@ h1{
     padding:1rem;
 }
 
+#landscape{
+    display: none;
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+}
+
 .image{
     text-align: center;
 }
@@ -92,3 +99,19 @@ h3{
 img{
     height: 30%;
 }
+@media screen and (max-width: 990px) {
+    body {
+      background-color:#fff;
+    }
+
+    .note-tab{
+        padding-left: 0;
+    }
+
+    img{
+        width: 300%;
+    }
+    #landscape{
+        display:block;
+    }
+  }
