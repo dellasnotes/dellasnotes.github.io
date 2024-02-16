@@ -98,7 +98,7 @@ h3{
 }
 
 img{
-    height: 30%;
+    width:95%;
 }
 @media screen and (max-width: 990px) {
     body {
