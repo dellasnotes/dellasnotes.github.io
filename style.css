@@ -1,0 +1,94 @@
+body{
+    background-color: #fff;
+   margin: 0;
+    font-family: 'Inter';
+}
+
+h1{
+    text-align: center;
+    padding:1rem;
+}
+
+.image{
+    text-align: center;
+}
+a{
+    font-size: larger;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(9, 52, 146);
+    padding:1rem;
+    margin:0.5rem;
+}
+
+a:hover{
+    color: #75a5ee;
+}
+
+.nav-bar{
+    text-align: center;
+}
+
+.guide-block{
+    color: #fff;
+    background-color: rgb(9,25,146);
+   
+    padding:2rem;
+}
+
+.guide-tab{
+    margin-left:4rem;
+    margin-top:1rem;
+    margin-right:2rem;
+    color: black;
+    background-color: #f4f4f4;
+    padding:0.8rem;
+    border-radius: 25px;
+}
+h3{
+    padding-bottom:1rem;
+    text-transform: uppercase;
+    padding-top:1rem;
+    padding-left:1.5rem;
+    font-weight: bold;
+}
+
+.guide-img{
+    width: 100%;
+    text-align: center;
+}
+
+.guide-title{
+    padding-bottom:2rem;
+    padding-left:4rem;
+    font-size: x-large;
+}
+
+.filler{
+    color: rgb(9,25,146);
+}
+
+.note-block{
+    color: rgb(9, 25, 146); 
+    margin-top: 2rem;
+    
+}
+
+.note-tab{
+    color: black;
+    padding: 10rem;
+    padding-top:2rem;
+    margin: 0;
+    
+    height: 40%;
+}
+
+.note-title{
+    padding-bottom:1rem;
+    padding-left:4rem;
+    font-size: x-large;
+}
+
+img{
+    height: 30%;
+}
