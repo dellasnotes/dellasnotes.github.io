@@ -98,7 +98,7 @@ h3{
 }
 
 img{
-    width:95%;
+    width:90%;
 }
 @media screen and (max-width: 990px) {
     body {
@@ -109,9 +109,7 @@ img{
         padding-left: 0;
     }
 
-    img{
-        width: 300%;
-    }
+  
     #landscape{
         display:block;
     }
